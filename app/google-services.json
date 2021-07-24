@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "628126396391",
+    "firebase_url": "https://rssapp-8052a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rssapp-8052a",
+    "storage_bucket": "rssapp-8052a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628126396391:android:f962905156c8110dac1742",
+        "android_client_info": {
+          "package_name": "com.example.rss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628126396391-koc7v5fqs2d8dqrof7p4aeim6eqitj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT5Ed4q7UBAmkRaXlEY8ntAfkhaB71L3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628126396391-koc7v5fqs2d8dqrof7p4aeim6eqitj1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
